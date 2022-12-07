@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+import "./subnavbar.css";
+
 
 const Subnavbar = () => {
     return (
@@ -6,15 +8,14 @@ const Subnavbar = () => {
             <div className="nav_data">
                 <div className="left_data">
                     <p>All</p>
+                    <p>Hommes</p>
                     <p>Femmes</p>
-                    <p>Femmes</p>
-                    <p>Femmes</p>
-                    <p>Femmes</p>
-                    <p>Femmes</p>
-                    <p>Femmes</p>
-                </div>
-                <div className="right_data">
-
+                    <p>Enfants</p>
+                    <p>Accessoires</p>
+                    <p>Personnalisable</p>
+                    <p>Meilleurs ventes</p>
+                    <p>Solde</p>
+                    <p>weari pay</p>
                 </div>
             </div>
         </div>
