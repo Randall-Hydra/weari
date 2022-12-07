@@ -14,8 +14,8 @@ const Subnavbar = () => {
                     <p>Accessoires</p>
                     <p>Personnalisable</p>
                     <p>Meilleurs ventes</p>
-                    <p>Solde</p>
-                    <p>weari pay</p>
+                    <p>Soldes</p>
+                    <p>Local</p>
                 </div>
             </div>
         </div>
